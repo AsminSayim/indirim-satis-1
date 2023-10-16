@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satiş\indirim-satiş\bin\Debug\indirim-satiş.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satiş\indirim-satiş\bin\Debug\indirim-satiş.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satiş\indirim-satiş\bin\Debug\indirim-satiş.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satiş\indirim-satiş\obj\Debug\indirim-satiş.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satiş\indirim-satiş\obj\Debug\indirim-satiş.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satiş\indirim-satiş\obj\Debug\indirim_satiş.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satiş\indirim-satiş\obj\Debug\indirim_satiş.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satiş\indirim-satiş\obj\Debug\indirim-satiş.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satiş\indirim-satiş\obj\Debug\indirim-satiş.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satiş\indirim-satiş\obj\Debug\indirim-satiş.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\indirim-satiş\indirim-satiş\obj\Debug\indirim-satiş.pdb
